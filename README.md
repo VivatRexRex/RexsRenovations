@@ -4,9 +4,9 @@ A website for my business where I will be making renovations of different kinds.
 
 ## About Me
 
-* [Twitter] ()
-* [Instagram] ()
-* [Facebook] ()
+* [Twitter] (https://twitter.com/RexRenovations)
+* [Instagram] (https://www.instagram.com/rexsrenovations/)
+* [Facebook] (https://www.facebook.com/RexsRenovations/)
 
 ### Special Shoutout
 
